@@ -6,7 +6,7 @@ public class HolaGitHub {
 		
 		
 		
-		System.out.println(" Hola GitHub!! by Serviroca");
+		System.outs.println(" Hola GitHub!! by Serviroca");
 		
 		
 	}
